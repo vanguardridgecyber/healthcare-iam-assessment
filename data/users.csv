@@ -1,0 +1,10 @@
+
+user_id,name,department,role,account_status,mfa_enabled,employment_status
+U001,Alice Carter,Clinical,Physician,active,yes,active
+U002,Marcus Lee,Clinical,Nurse,active,no,active
+U003,Sarah Brooks,Finance,Billing,active,yes,active
+U004,David Kim,IT,IT_Admin,active,yes,active
+U005,Emily Davis,Clinical,Nurse,active,no,terminated
+U006,James Wilson,Front_Desk,Receptionist,active,yes,active
+U007,Olivia Green,Finance,Billing,disabled,no,terminated
+U008,Robert Jones,IT,IT_Admin,active,no,active
