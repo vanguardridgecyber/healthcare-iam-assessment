@@ -1,4 +1,3 @@
-
 user_id,name,department,role,account_status,mfa_enabled,employment_status
 U001,Alice Carter,Clinical,Physician,active,yes,active
 U002,Marcus Lee,Clinical,Nurse,active,no,active
